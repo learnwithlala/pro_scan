@@ -1,5 +1,5 @@
 # Pro_scan 🔥
-### An Advanced Nmap-based Network Scanner by LALA JI
+### An Advanced Nmap-based Network Scanner
 
 **Pro_scan** is an advanced Bash-based Nmap network scanner designed for **security researchers**, **bug bounty hunters**, and **red teamers**. It provides a simple yet powerful **interactive menu** to perform 25+ advanced scans including OS detection, versioning, and firewall evasion techniques.
 
