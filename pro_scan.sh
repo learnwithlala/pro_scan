@@ -16,7 +16,7 @@ function banner() {
     clear
     echo -e "${RED}"
     figlet -f slant "Pro_Scan" | lolcat
-    echo -e "${NC}Created By: ${YELLOW}Lalaji 🔥 | Insta: @lalaji_security${NC}"
+    echo -e "${NC}Created By: ${YELLOW}Lalaji 🔥 | Insta: @lalajifor_cybersecurity${NC}"
     echo ""
 }
 
